@@ -7,6 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <TGameSDKTest/TGRouter.h>
+
 
 /** TGame delegate */
 @protocol TGameDelegate <NSObject>
